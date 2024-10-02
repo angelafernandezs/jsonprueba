@@ -69,14 +69,14 @@
         "signo": "Artesanía",
         "foto": "https://github.com/user-attachments/assets/66671253-a2c9-4a77-ac03-24f30eb35093",
         "github": "https://github.com/angelafernandezs"
-    }
+    }.
     {
         "nombre": "Design Sketching",
         "fecha": "2024",
         "signo": "Industrial",
         "foto": "https://github.com/user-attachments/assets/701916df-b16d-490f-8eef-3160e8f8b000",
         "github": "https://github.com/angelafernandezs"
-    }
+    },
     {
         "nombre": "Afiche Cerámicas",
         "fecha": "2024",
