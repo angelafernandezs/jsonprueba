@@ -69,7 +69,7 @@
         "signo": "Artesanía",
         "foto": "https://github.com/user-attachments/assets/66671253-a2c9-4a77-ac03-24f30eb35093",
         "github": "https://github.com/angelafernandezs"
-    }.
+    },
     {
         "nombre": "Dibujo Auto",
         "fecha": "2024",
