@@ -71,7 +71,7 @@
         "github": "https://github.com/angelafernandezs"
     }.
     {
-        "nombre": "Design sketching",
+        "nombre": "Dibujo Auto",
         "fecha": "2024",
         "signo": "Industrial",
         "foto": "https://github.com/user-attachments/assets/701916df-b16d-490f-8eef-3160e8f8b000",
