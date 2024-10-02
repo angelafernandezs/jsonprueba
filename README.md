@@ -1,1 +1,13 @@
 # jsonprueba
+![portafolio-012](https://github.com/user-attachments/assets/f744a440-9f6b-40a7-9c1e-839d79a2f410)
+![portafolio-011](https://github.com/user-attachments/assets/701916df-b16d-490f-8eef-3160e8f8b000)
+![portafolio-010](https://github.com/user-attachments/assets/66671253-a2c9-4a77-ac03-24f30eb35093)
+![portafolio-09](https://github.com/user-attachments/assets/12f0586a-52ee-45b7-9e57-1938db3e01c8)
+![portafolio-08](https://github.com/user-attachments/assets/de718dc1-0f1c-4c56-b886-a3f92c43d32f)
+![portafolio-07](https://github.com/user-attachments/assets/9ec3a12f-9b95-474c-a50a-b9ce2ce6e8b3)
+![portafolio-06](https://github.com/user-attachments/assets/5df061c7-7d82-4e60-9dd3-97b78cce2956)
+![portafolio-05](https://github.com/user-attachments/assets/f435c9f2-3bd1-46fe-b7ed-7047083cb20b)
+![portafolio-04](https://github.com/user-attachments/assets/82d394e4-9504-4bae-95d7-c66fe9956369)
+![portafolio-03](https://github.com/user-attachments/assets/4598490a-d2e0-4300-9e05-a029feb1d29b)
+![portafolio-02](https://github.com/user-attachments/assets/57a7eda2-077f-427a-87c7-e674ddbae11e)
+![portafolio-01](https://github.com/user-attachments/assets/fd99602c-6964-47eb-bd9a-6892ceaac4b9)
